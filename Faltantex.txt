@@ -1,7 +1,28 @@
 Falta lo siguiente
-
+FRONT END
+INICIO
 *Eliminar Imagenes innesarias y agrupar las imagenes en carpetas
 -Eso Implica ajustar las imagenes del index.html
 
 *Agregar y acomodar las imagenes de los integrantes
 -Ajustar la altura y las proporciones de cada imagenes para que coincidan
+
+*Terminar el apartado de noticias recientes
+
+*Terminar el apartado de Cambios recientes
+
+*en inner-page realizar funcional los botones del final
+Inicio
+Sobre
+Servicios
+Equipo
+Contacto
+
+REGISTRO
+realizar la interfaz de registro
+realizar la interfaz de login
+realizar la interfaz de loginProfesores
+realizar la interfaz del proyecto
+
+BACKEND
+aplicarlo en todo xd
