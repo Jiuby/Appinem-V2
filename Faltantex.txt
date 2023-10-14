@@ -1,0 +1,7 @@
+Falta lo siguiente
+
+*Eliminar Imagenes innesarias y agrupar las imagenes en carpetas
+-Eso Implica ajustar las imagenes del index.html
+
+*Agregar y acomodar las imagenes de los integrantes
+-Ajustar la altura y las proporciones de cada imagenes para que coincidan
