@@ -1,22 +1,27 @@
 Falta lo siguiente
 FRONT END
-INICIO
-*Eliminar Imagenes innesarias y agrupar las imagenes en carpetas
--Eso Implica ajustar las imagenes del index.html
+*INICIO
+--> Eliminar Imagenes innesarias y agrupar las imagenes en carpetas
+---> Eso Implica ajustar las imagenes del index.html
 
-*Agregar y acomodar las imagenes de los integrantes
--Ajustar la altura y las proporciones de cada imagenes para que coincidan
+--> Agregar y acomodar las imagenes de los integrantes
+---> Ajustar la altura y las proporciones de cada imagenes para que coincidan
 
-*Terminar el apartado de noticias recientes
+--> Terminar el apartado de noticias recientes
+---> Agregar apartado de agregar noticias desde modo administrador
 
-*Terminar el apartado de Cambios recientes
 
-*en inner-page realizar funcional los botones del final
-Inicio
-Sobre
-Servicios
-Equipo
-Contacto
+--> Terminar el apartado de Cambios recientes
+---> Agregar apartado de agregar Cambios desde modo administrador
+
+
+--> en actualizaciones y noticias realizar funcional los botones
+---> Inicio
+---> Sobre
+---> Servicios
+---> mision y vision
+---> Equipo
+---> Contacto
 
 REGISTRO
 realizar la interfaz de registro
