@@ -13,17 +13,6 @@ FRONT END
 --> Terminar el apartado de Cambios recientes
 ---> Agregar apartado de agregar Cambios desde modo administrador
 
---> en actualizaciones y noticias realizar funcional los botones
----> Inicio
----> Sobre
----> Servicios
----> mision y vision
----> Equipo
----> Contacto
-
---> Agregar apartado de informacion del colegio
-
-
 realizar la interfaz del proyectoEstudiantes
 realizar la interfaz del proyectoProfesores
 realizar la interfaz del proyectoAdministradores
