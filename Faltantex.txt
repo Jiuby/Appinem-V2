@@ -23,12 +23,6 @@ FRONT END
 
 --> Agregar apartado de informacion del colegio
 
-REGISTRO
-realizar la interfaz de registro y login
---> cambiar las imagenes que salen
-
-realizar la interfaz de loginProfesores
---> cambiar los colores y la imagen
 
 realizar la interfaz del proyectoEstudiantes
 realizar la interfaz del proyectoProfesores
