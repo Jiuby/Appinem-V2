@@ -27,7 +27,10 @@ REGISTRO
 realizar la interfaz de registro
 realizar la interfaz de login
 realizar la interfaz de loginProfesores
-realizar la interfaz del proyecto
+realizar la interfaz de administradoes
+realizar la interfaz del proyectoEstudiantes
+realizar la interfaz del proyectoProfesores
+realizar la interfaz del proyectoAdministradores
 
 BACKEND
 aplicarlo en todo xd
