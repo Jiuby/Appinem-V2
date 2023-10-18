@@ -16,27 +16,29 @@
     <div class="container">
       <div class="forms-container">
         <div class="signin-signup">
-          <form action="#" class="sign-in-form">
+          <form action="{% url 'login' %}" method="POST" class="sign-in-form">
+            {% csrf_token %}
             <h2 class="title">Inicia Sesion</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
-              <input type="text" placeholder="tarjeta de identidad" />
+              <input type="text" name="tarjeta" placeholder="tarjeta de identidad" />
             </div>
             <div class="input-field">
               <i class="fas fa-lock"></i>
-              <input type="password" placeholder="contraseña" />
+              <input type="password" name="clave" placeholder="contraseña" />
             </div>
             <input type="submit" value="Ingresar" class="btn solid" />
           </form>
-          <form action="#" class="sign-up-form">
+          <form action="{% url 'login' %}" class="sign-up-form" method="POST">
+            {% csrf_token %}
             <h2 class="title">Registrate</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
-              <input type="text" placeholder="Tarjeta de identidad" />
+              <input type="text" name="tarjeta" placeholder="Tarjeta de identidad" />
             </div>
             <div class="input-field">
               <i class="fas fa-lock"></i>
-              <input type="password" placeholder="Clave" />
+              <input type="password" name="clave" placeholder="Clave" />
             </div>
             <input type="submit" class="btn" value="Registrarse" />
           </form>
